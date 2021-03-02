@@ -8,6 +8,8 @@ public enum LicenseType {
     cc_30_by_aus("CC - Attribution 3.0 Australia", "CC_30_BY_AUS"),
 
     cc_30_by("CC - Attribution 3.0 Unported", "CC_30_BY"),
+    
+    CC_40_by("CC - Attribution 4.0 International", "CC_40_BY"),
 
     cc_30_by_nd("CC - Attribution | No Derivative Works 3.0 Unported", "CC_30_BY_ND"),
 
